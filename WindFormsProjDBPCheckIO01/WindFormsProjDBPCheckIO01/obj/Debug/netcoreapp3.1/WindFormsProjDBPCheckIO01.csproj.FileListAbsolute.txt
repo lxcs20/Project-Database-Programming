@@ -1,0 +1,53 @@
+C:\Users\ACER BY COMCOM\Desktop\Project DB programmimg C#\WindFormsProjDBPCheckIO01\WindFormsProjDBPCheckIO01\bin\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.exe
+C:\Users\ACER BY COMCOM\Desktop\Project DB programmimg C#\WindFormsProjDBPCheckIO01\WindFormsProjDBPCheckIO01\bin\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.deps.json
+C:\Users\ACER BY COMCOM\Desktop\Project DB programmimg C#\WindFormsProjDBPCheckIO01\WindFormsProjDBPCheckIO01\bin\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.runtimeconfig.json
+C:\Users\ACER BY COMCOM\Desktop\Project DB programmimg C#\WindFormsProjDBPCheckIO01\WindFormsProjDBPCheckIO01\bin\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.runtimeconfig.dev.json
+C:\Users\ACER BY COMCOM\Desktop\Project DB programmimg C#\WindFormsProjDBPCheckIO01\WindFormsProjDBPCheckIO01\bin\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.dll
+C:\Users\ACER BY COMCOM\Desktop\Project DB programmimg C#\WindFormsProjDBPCheckIO01\WindFormsProjDBPCheckIO01\bin\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.pdb
+C:\Users\ACER BY COMCOM\Desktop\Project DB programmimg C#\WindFormsProjDBPCheckIO01\WindFormsProjDBPCheckIO01\obj\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.csproj.AssemblyReference.cache
+C:\Users\ACER BY COMCOM\Desktop\Project DB programmimg C#\WindFormsProjDBPCheckIO01\WindFormsProjDBPCheckIO01\obj\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.FrmLogin.resources
+C:\Users\ACER BY COMCOM\Desktop\Project DB programmimg C#\WindFormsProjDBPCheckIO01\WindFormsProjDBPCheckIO01\obj\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.Properties.Resources.resources
+C:\Users\ACER BY COMCOM\Desktop\Project DB programmimg C#\WindFormsProjDBPCheckIO01\WindFormsProjDBPCheckIO01\obj\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.csproj.GenerateResource.cache
+C:\Users\ACER BY COMCOM\Desktop\Project DB programmimg C#\WindFormsProjDBPCheckIO01\WindFormsProjDBPCheckIO01\obj\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER BY COMCOM\Desktop\Project DB programmimg C#\WindFormsProjDBPCheckIO01\WindFormsProjDBPCheckIO01\obj\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.AssemblyInfoInputs.cache
+C:\Users\ACER BY COMCOM\Desktop\Project DB programmimg C#\WindFormsProjDBPCheckIO01\WindFormsProjDBPCheckIO01\obj\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.AssemblyInfo.cs
+C:\Users\ACER BY COMCOM\Desktop\Project DB programmimg C#\WindFormsProjDBPCheckIO01\WindFormsProjDBPCheckIO01\obj\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.csproj.CoreCompileInputs.cache
+C:\Users\ACER BY COMCOM\Desktop\Project DB programmimg C#\WindFormsProjDBPCheckIO01\WindFormsProjDBPCheckIO01\obj\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.dll
+C:\Users\ACER BY COMCOM\Desktop\Project DB programmimg C#\WindFormsProjDBPCheckIO01\WindFormsProjDBPCheckIO01\obj\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.pdb
+C:\Users\ACER BY COMCOM\Desktop\Project DB programmimg C#\WindFormsProjDBPCheckIO01\WindFormsProjDBPCheckIO01\obj\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.genruntimeconfig.cache
+C:\Users\ACER BY COMCOM\Desktop\Project DB programmimg C#\WindFormsProjDBPCheckIO01\WindFormsProjDBPCheckIO01\obj\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.FrmCheckIn.resources
+C:\Users\ACER BY COMCOM\Desktop\Project DB programmimg C#\WindFormsProjDBPCheckIO01\WindFormsProjDBPCheckIO01\obj\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.FrmCheckOut.resources
+C:\Users\ACER BY COMCOM\Desktop\Project DB programmimg C#\WindFormsProjDBPCheckIO01\WindFormsProjDBPCheckIO01\obj\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.FrmEmployee.resources
+C:\Users\ACER BY COMCOM\Desktop\Project DB programmimg C#\WindFormsProjDBPCheckIO01\WindFormsProjDBPCheckIO01\obj\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.FrmMain.resources
+G:\C#\WindFormsProjDBPCheckIO01 - Copy-20220703T081559Z-001\WindFormsProjDBPCheckIO01 - Copy\WindFormsProjDBPCheckIO01\obj\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.csproj.AssemblyReference.cache
+G:\C#\WindFormsProjDBPCheckIO01 - Copy-20220703T081559Z-001\WindFormsProjDBPCheckIO01 - Copy\WindFormsProjDBPCheckIO01\obj\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.frmAdmin.resources
+G:\C#\WindFormsProjDBPCheckIO01 - Copy-20220703T081559Z-001\WindFormsProjDBPCheckIO01 - Copy\WindFormsProjDBPCheckIO01\obj\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.FrmCheckIn.resources
+G:\C#\WindFormsProjDBPCheckIO01 - Copy-20220703T081559Z-001\WindFormsProjDBPCheckIO01 - Copy\WindFormsProjDBPCheckIO01\obj\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.FrmCheckOut.resources
+G:\C#\WindFormsProjDBPCheckIO01 - Copy-20220703T081559Z-001\WindFormsProjDBPCheckIO01 - Copy\WindFormsProjDBPCheckIO01\obj\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.FrmEmployee.resources
+G:\C#\WindFormsProjDBPCheckIO01 - Copy-20220703T081559Z-001\WindFormsProjDBPCheckIO01 - Copy\WindFormsProjDBPCheckIO01\obj\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.FrmLogin.resources
+G:\C#\WindFormsProjDBPCheckIO01 - Copy-20220703T081559Z-001\WindFormsProjDBPCheckIO01 - Copy\WindFormsProjDBPCheckIO01\obj\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.FrmMain.resources
+G:\C#\WindFormsProjDBPCheckIO01 - Copy-20220703T081559Z-001\WindFormsProjDBPCheckIO01 - Copy\WindFormsProjDBPCheckIO01\obj\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.Properties.Resources.resources
+G:\C#\WindFormsProjDBPCheckIO01 - Copy-20220703T081559Z-001\WindFormsProjDBPCheckIO01 - Copy\WindFormsProjDBPCheckIO01\obj\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.csproj.GenerateResource.cache
+G:\C#\WindFormsProjDBPCheckIO01 - Copy-20220703T081559Z-001\WindFormsProjDBPCheckIO01 - Copy\WindFormsProjDBPCheckIO01\obj\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\WindFormsProjDBPCheckIO01 - Copy-20220703T081559Z-001\WindFormsProjDBPCheckIO01 - Copy\WindFormsProjDBPCheckIO01\obj\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.AssemblyInfoInputs.cache
+G:\C#\WindFormsProjDBPCheckIO01 - Copy-20220703T081559Z-001\WindFormsProjDBPCheckIO01 - Copy\WindFormsProjDBPCheckIO01\obj\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.AssemblyInfo.cs
+G:\C#\WindFormsProjDBPCheckIO01 - Copy-20220703T081559Z-001\WindFormsProjDBPCheckIO01 - Copy\WindFormsProjDBPCheckIO01\obj\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.csproj.CoreCompileInputs.cache
+G:\C#\WindFormsProjDBPCheckIO01 - Copy-20220703T081559Z-001\WindFormsProjDBPCheckIO01 - Copy\WindFormsProjDBPCheckIO01\obj\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.dll
+G:\C#\WindFormsProjDBPCheckIO01 - Copy-20220703T081559Z-001\WindFormsProjDBPCheckIO01 - Copy\WindFormsProjDBPCheckIO01\obj\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.pdb
+G:\C#\WindFormsProjDBPCheckIO01 - Copy-20220703T081559Z-001\WindFormsProjDBPCheckIO01 - Copy\WindFormsProjDBPCheckIO01\bin\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.exe
+G:\C#\WindFormsProjDBPCheckIO01 - Copy-20220703T081559Z-001\WindFormsProjDBPCheckIO01 - Copy\WindFormsProjDBPCheckIO01\bin\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.deps.json
+G:\C#\WindFormsProjDBPCheckIO01 - Copy-20220703T081559Z-001\WindFormsProjDBPCheckIO01 - Copy\WindFormsProjDBPCheckIO01\bin\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.runtimeconfig.json
+G:\C#\WindFormsProjDBPCheckIO01 - Copy-20220703T081559Z-001\WindFormsProjDBPCheckIO01 - Copy\WindFormsProjDBPCheckIO01\bin\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.runtimeconfig.dev.json
+G:\C#\WindFormsProjDBPCheckIO01 - Copy-20220703T081559Z-001\WindFormsProjDBPCheckIO01 - Copy\WindFormsProjDBPCheckIO01\bin\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.dll
+G:\C#\WindFormsProjDBPCheckIO01 - Copy-20220703T081559Z-001\WindFormsProjDBPCheckIO01 - Copy\WindFormsProjDBPCheckIO01\bin\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.pdb
+G:\C#\WindFormsProjDBPCheckIO01 - Copy-20220703T081559Z-001\WindFormsProjDBPCheckIO01 - Copy\WindFormsProjDBPCheckIO01\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+G:\C#\WindFormsProjDBPCheckIO01 - Copy-20220703T081559Z-001\WindFormsProjDBPCheckIO01 - Copy\WindFormsProjDBPCheckIO01\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\C#\WindFormsProjDBPCheckIO01 - Copy-20220703T081559Z-001\WindFormsProjDBPCheckIO01 - Copy\WindFormsProjDBPCheckIO01\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\C#\WindFormsProjDBPCheckIO01 - Copy-20220703T081559Z-001\WindFormsProjDBPCheckIO01 - Copy\WindFormsProjDBPCheckIO01\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\C#\WindFormsProjDBPCheckIO01 - Copy-20220703T081559Z-001\WindFormsProjDBPCheckIO01 - Copy\WindFormsProjDBPCheckIO01\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\C#\WindFormsProjDBPCheckIO01 - Copy-20220703T081559Z-001\WindFormsProjDBPCheckIO01 - Copy\WindFormsProjDBPCheckIO01\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\C#\WindFormsProjDBPCheckIO01 - Copy-20220703T081559Z-001\WindFormsProjDBPCheckIO01 - Copy\WindFormsProjDBPCheckIO01\obj\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.csproj.CopyComplete
+G:\C#\WindFormsProjDBPCheckIO01 - Copy-20220703T081559Z-001\WindFormsProjDBPCheckIO01 - Copy\WindFormsProjDBPCheckIO01\obj\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.genruntimeconfig.cache
+G:\C#\WindFormsProjDBPCheckIO01 - Copy-20220703T081559Z-001\WindFormsProjDBPCheckIO01 - Copy\WindFormsProjDBPCheckIO01\obj\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.frmReport.resources
+G:\C#\WindFormsProjDBPCheckIO01 - Copy-20220703T081559Z-001\WindFormsProjDBPCheckIO01 - Copy\WindFormsProjDBPCheckIO01\obj\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.FrmLeave.resources
+G:\C#\WindFormsProjDBPCheckIO01 - Copy-20220703T081559Z-001\WindFormsProjDBPCheckIO01 - Copy\WindFormsProjDBPCheckIO01\obj\Debug\netcoreapp3.1\WindFormsProjDBPCheckIO01.frmMainContent.resources
